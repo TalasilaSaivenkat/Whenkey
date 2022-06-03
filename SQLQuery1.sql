@@ -147,6 +147,9 @@ From [Portfolio Project ( covid-19)]..['Covid deaths$']
 Group by Location, Population, date
 order by PercentPopulationInfected desc
 
+--Tablue dashboard link
+-- https://public.tableau.com/app/profile/talasila.saivenkat/viz/Covid-19dashboard_16542454475900/Dashboard1?publish=yes
+
 --only in case you want to check them out
 --01
 
